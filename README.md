@@ -5,11 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja-pmt&label=Profile%20views&color=0e75b6&style=flat" alt="pooja-pmt" /> </p>
 
-- 🔭 I’m currently working on **portfolio website**
 
-- 🌱 I’m currently learning **web development**
-
-- ⚡ Fun fact **I think i love watching anime :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
